@@ -15,7 +15,7 @@ const uniqueList = [
   "All",
 ];
 
-const Resturent = () => {
+const Restaurant = () => {
 
   // variable na new data badalva mate usestate 
 
@@ -43,4 +43,4 @@ const Resturent = () => {
   );
 };
 
-export default Resturent;
+export default Restaurant;
